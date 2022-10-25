@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shadow-spring-boot-mybatis-example" />
+        <module name="readwrite-splitting-spring-boot-jpa-example" />
+        <module name="config-utility" />
+        <module name="class-based-sharding-raw-jdbc-example" />
+        <module name="sharding-spring-boot-mybatis-example" />
+        <module name="encrypt-spring-boot-mybatis-example" />
+        <module name="readwrite-splitting-raw-jdbc-example" />
+        <module name="spi-based-sharding-spring-namespace-mybatis-example" />
+        <module name="sharding-readwrite-splitting-spring-namespace-mybatis-example" />
+        <module name="sharding-spring-namespace-mybatis-example" />
+        <module name="shadow-spring-namespace-jpa-example" />
+        <module name="example-api" />
+        <module name="spi-based-sharding-spring-boot-jpa-example" />
+        <module name="transaction-2pc-xa-atomikos-raw-jdbc-example" />
+        <module name="encrypt-spring-boot-jpa-example" />
+        <module name="encrypt-raw-jdbc-example" />
+        <module name="encrypt-spring-namespace-jpa-example" />
+        <module name="encrypt-spring-namespace-mybatis-example" />
+        <module name="readwrite-splitting-spring-namespace-mybatis-example" />
+        <module name="spi-based-sharding-spring-namespace-jpa-example" />
+        <module name="shadow-spring-boot-jpa-example" />
+        <module name="spi-based-sharding-spring-boot-mybatis-example" />
+        <module name="cluster-mode-spring-namespace-mybatis-example" />
+        <module name="example-raw-jdbc" />
+        <module name="spi-based-sharding-raw-jdbc-example" />
+        <module name="sharding-spring-namespace-jpa-example" />
+        <module name="class-based-sharding-spring-namespace-mybatis-example" />
+        <module name="sharding-readwrite-splitting-spring-namespace-jpa-example" />
+        <module name="shardingsphere-proxy-boot-mybatis-example" />
+        <module name="readwrite-splitting-spring-boot-mybatis-example" />
+        <module name="shardingsphere-proxy-distsql-example" />
+        <module name="cluster-mode-spring-boot-mybatis-example" />
+        <module name="sharding-readwrite-splitting-raw-jdbc-example" />
+        <module name="class-based-sharding-spring-boot-jpa-example" />
+        <module name="readwrite-splitting-spring-namespace-jpa-example" />
+        <module name="example-spring-jpa" />
+        <module name="transaction-2pc-xa-narayana-raw-jdbc-example" />
+        <module name="shardingsphere-parser-example" />
+        <module name="sharding-spring-boot-jpa-example" />
+        <module name="shadow-spring-namespace-mybatis-example" />
+        <module name="sharding-readwrite-splitting-spring-boot-jpa-example" />
+        <module name="transaction-2pc-xa-spring-namespace-example" />
+        <module name="example-spring-mybatis" />
+        <module name="transaction-base-seata-raw-jdbc-example" />
+        <module name="shardingsphere-proxy-hint-example" />
+        <module name="transaction-base-seata-spring-boot-example" />
+        <module name="shadow-raw-jdbc-example" />
+        <module name="transaction-2pc-xa-spring-boot-example" />
+        <module name="transaction-2pc-xa-bitronix-raw-jdbc-example" />
+        <module name="sharding-readwrite-splitting-spring-boot-mybatis-example" />
+        <module name="sharding-raw-jdbc-example" />
+        <module name="cluster-mode-raw-jdbc-example" />
+        <module name="class-based-sharding-spring-boot-mybatis-example" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
